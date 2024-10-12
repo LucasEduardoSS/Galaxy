@@ -404,7 +404,5 @@ class GalaxyApp(App):
     pass
 
 
-GalaxyApp().run()
-
 if __name__ == "__main__":
-    pass
+    GalaxyApp().run()
